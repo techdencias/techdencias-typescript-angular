@@ -1,0 +1,26 @@
+{
+  "name": "techdencias-angular-ts",
+  "description": "ejemplo de typescript y angular",
+  "main": "index.html",
+  "moduleType": [],
+  "keywords": [
+    "angular",
+    "typescript"
+  ],
+  "authors": [
+    "dany paredes"
+  ],
+  "license": "MIT",
+  "homepage": "www.danywalls.com",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.6"
+  }
+}
