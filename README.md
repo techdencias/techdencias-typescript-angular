@@ -6,9 +6,7 @@
 
 ## Requisitos
 
-Es necesario tener instalado [Nodejs](https://nodejs.org/en/download/) , [Bower](http://bower.io/).
-instalamos typescript 
-
+Es necesario tener instalado [Nodejs](https://nodejs.org/en/download/) , [Bower](http://bower.io/), luego de eso utilizando el gestor de paquetes de node instalamos typescript y bower.
 ```
 npm install -g typescript
 npm install -g bower
