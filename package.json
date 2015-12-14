@@ -1,0 +1,26 @@
+{
+  "name": "techdencias-typescript-angular",
+  "version": "1.0.0",
+  "description": "ejemplo de typescript con angular",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danywalls/techdencias-typescript-angular.git"
+  },
+  "keywords": [
+    "angular",
+    "typescript"
+  ],
+  "author": "dany paredes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danywalls/techdencias-typescript-angular/issues"
+  },
+  "homepage": "https://github.com/danywalls/techdencias-typescript-angular#readme",
+  "devDependencies": {
+    "http-server": "^0.8.5"
+  }
+}
