@@ -12,7 +12,7 @@ npm install -g typescript
 npm install -g bower
 ```
 
-## Que realiza este codigo
+## Acerca de 
 
 Typescript nos facilita la posibilidad de poder crear Módulos y Controllers de Angular utilizando Clases de Typescript en vez de funciones Javascript.
 
@@ -24,13 +24,13 @@ Esto nos permite aprovechar las ventajas de la programación OOP para poder impl
 
 ## Instalacion o Compilacion
 
-Clone el repositorio:
+Clonar el repositorio:
 
 ```
 git clone https://github.com/danywalls/techdencias-typescript-angular
 ```
 
-Change to the TypeScript directory:
+Cambiar al directorio techdencias-typescript-angular:
 
 ```
 cd techdencias-typescript-angular
