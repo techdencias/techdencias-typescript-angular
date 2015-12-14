@@ -1,0 +1,6 @@
+# Ignore bower module folder
+/bower_components
+
+# Ignore node module folder
+/node_modules
+npm-debug.log
