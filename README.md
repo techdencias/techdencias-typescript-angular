@@ -12,7 +12,7 @@ npm install -g typescript
 npm install -g bower
 ```
 
-## Acerca de 
+## Funcionalidad
 
 Typescript nos facilita la posibilidad de poder crear Módulos y Controllers de Angular utilizando Clases de Typescript en vez de funciones Javascript.
 
@@ -61,5 +61,5 @@ Si quieres saber mas sobre Typescript puedes ver la documentacion oficial.
 
 ## Creditos
 
-Gracias a [@Manu](http://www.twitter.com/manu) por facilitarme su laptop, porque la mac fallo :).
+Gracias a [@Manu](http://www.twitter.com/MDelgadoDiaz83) por facilitarme su laptop, porque la mac fallo :).
 </code>
