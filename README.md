@@ -61,5 +61,5 @@ Si quieres saber mas sobre Typescript puedes ver la documentacion oficial.
 
 ## Creditos
 
-Gracias a [@Manu](http://www.twitter.com/MDelgadoDiaz83) por facilitarme su laptop, porque la mac fallo :).
+Gracias a [@MDelgadoDiaz83](http://www.twitter.com/MDelgadoDiaz83) por facilitarme su laptop, porque la mac fallo :).
 </code>
